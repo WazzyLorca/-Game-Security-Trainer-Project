@@ -1,4 +1,4 @@
-# Giving an Old Game a Go: A Memory Manipulation Project
+Giving an Old Game a Go: A Memory Manipulation Project
 
 ## What's the story?
 
